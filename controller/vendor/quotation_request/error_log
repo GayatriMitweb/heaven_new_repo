@@ -1,0 +1,2 @@
+[15-Jun-2017 17:38:44 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/itouroperator/public_html/development/model/vendor/quotation_request/quotation_request_master_save.php on line 241
+[15-Jun-2017 17:40:01 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/itouroperator/public_html/development/model/vendor/quotation_request/quotation_request_master_save.php on line 241

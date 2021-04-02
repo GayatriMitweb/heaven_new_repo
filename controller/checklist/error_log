@@ -1,0 +1,22 @@
+[27-Jun-2017 11:51:01 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'itouroperator'@'localhost' (using password: NO) in /home/itouroperator/public_html/development/model/checklist/checklist_pending_mail.php on line 8
+[27-Jun-2017 11:51:01 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/itouroperator/public_html/development/model/checklist/checklist_pending_mail.php on line 8
+[27-Jun-2017 11:51:01 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/itouroperator/public_html/development/model/checklist/checklist_pending_mail.php on line 9
+[27-Jun-2017 11:51:01 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'itouroperator'@'localhost' (using password: NO) in /home/itouroperator/public_html/development/model/checklist/checklist_pending_mail.php on line 38
+[27-Jun-2017 11:51:01 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/itouroperator/public_html/development/model/checklist/checklist_pending_mail.php on line 38
+[27-Jun-2017 11:51:01 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/itouroperator/public_html/development/model/checklist/checklist_pending_mail.php on line 39
+[28-Jun-2017 09:41:52 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/itouroperator/public_html/development/model/checklist/checklist_pending_mail.php on line 107
+[28-Jun-2017 09:42:31 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/itouroperator/public_html/development/model/checklist/checklist_pending_mail.php on line 107
+[28-Jun-2017 09:46:34 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ':' in /home/itouroperator/public_html/development/model/checklist/checklist_pending_mail.php on line 53
+[28-Jun-2017 09:47:56 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ':' in /home/itouroperator/public_html/development/model/checklist/checklist_pending_mail.php on line 53
+[28-Jun-2017 09:48:40 Asia/Kolkata] PHP Fatal error:  Class 'checklist_pending' not found in /home/itouroperator/public_html/development/controller/checklist/checklist_pending_email.php on line 5
+[28-Jun-2017 09:48:56 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ':' in /home/itouroperator/public_html/development/model/checklist/checklist_pending_mail.php on line 53
+[28-Jun-2017 09:49:37 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ':' in /home/itouroperator/public_html/development/model/checklist/checklist_pending_mail.php on line 53
+[28-Jun-2017 09:56:15 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '.' in /home/itouroperator/public_html/development/model/checklist/checklist_pending_mail.php on line 84
+[28-Jun-2017 09:56:54 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '.' in /home/itouroperator/public_html/development/model/checklist/checklist_pending_mail.php on line 84
+[28-Jun-2017 10:12:28 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/itouroperator/public_html/development/model/checklist/checklist_pending_mail.php on line 50
+[28-Jun-2017 10:13:14 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/itouroperator/public_html/development/model/checklist/checklist_pending_mail.php on line 50
+[28-Jun-2017 10:13:21 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/itouroperator/public_html/development/model/checklist/checklist_pending_mail.php on line 50
+[28-Jun-2017 10:13:41 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/itouroperator/public_html/development/model/checklist/checklist_pending_mail.php on line 50
+[28-Jun-2017 10:13:46 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/itouroperator/public_html/development/model/checklist/checklist_pending_mail.php on line 50
+[28-Jun-2017 10:14:18 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/itouroperator/public_html/development/model/checklist/checklist_pending_mail.php on line 50
+[28-Jun-2017 10:15:27 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/itouroperator/public_html/development/model/checklist/checklist_pending_mail.php on line 50

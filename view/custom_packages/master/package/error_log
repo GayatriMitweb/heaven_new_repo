@@ -1,0 +1,15 @@
+[25-Mar-2018 08:01:48 Etc/GMT] PHP Notice:  Undefined index: uploadfile in /home/itourscloud/public_html/v4/view/custom_packages/master/package/upload_ticket.php on line 27
+[25-Mar-2018 08:01:48 Etc/GMT] PHP Notice:  Undefined index: uploadfile in /home/itourscloud/public_html/v4/view/custom_packages/master/package/upload_ticket.php on line 28
+[25-Mar-2018 08:01:48 Etc/GMT] PHP Notice:  Undefined index: uploadfile in /home/itourscloud/public_html/v4/view/custom_packages/master/package/upload_ticket.php on line 34
+[25-Mar-2018 08:05:27 Etc/GMT] PHP Notice:  Undefined index: total_days in /home/itourscloud/public_html/v4/view/custom_packages/master/package/generate_program_list.php on line 3
+[03-Apr-2018 07:08:23 Etc/GMT] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/itourscloud/public_html/v4/view/custom_packages/master/package/upload_ticket.php on line 28
+[03-Apr-2018 07:08:48 Etc/GMT] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/itourscloud/public_html/v4/view/custom_packages/master/package/upload_ticket.php on line 28
+[03-Apr-2018 07:18:33 Etc/GMT] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/itourscloud/public_html/v4/view/custom_packages/master/package/upload_ticket.php on line 28
+[03-Apr-2018 07:18:33 Etc/GMT] PHP Notice:  Undefined index: image in /home/itourscloud/public_html/v4/view/custom_packages/master/package/upload_ticket.php on line 29
+[03-Apr-2018 07:20:46 Etc/GMT] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/itourscloud/public_html/v4/view/custom_packages/master/package/upload_ticket.php on line 28
+[03-Apr-2018 07:23:25 Etc/GMT] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/itourscloud/public_html/v4/view/custom_packages/master/package/upload_ticket.php on line 28
+[03-Apr-2018 07:23:58 Etc/GMT] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/itourscloud/public_html/v4/view/custom_packages/master/package/upload_ticket.php on line 28
+[03-Apr-2018 09:58:07 Etc/GMT] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/itourscloud/public_html/v4/view/custom_packages/master/package/upload_ticket.php on line 28
+[19-Apr-2018 06:45:20 Etc/GMT] PHP Notice:  Undefined index: uploadfile in /home/itourscloud/public_html/v5/view/custom_packages/master/package/upload_ticket.php on line 29
+[19-Apr-2018 06:45:20 Etc/GMT] PHP Notice:  Undefined index: uploadfile in /home/itourscloud/public_html/v5/view/custom_packages/master/package/upload_ticket.php on line 32
+[19-Apr-2018 06:45:20 Etc/GMT] PHP Notice:  Undefined index: uploadfile in /home/itourscloud/public_html/v5/view/custom_packages/master/package/upload_ticket.php on line 38

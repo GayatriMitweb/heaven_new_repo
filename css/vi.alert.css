@@ -1,0 +1,128 @@
+.vi_alert_parent{
+	position:fixed;
+	bottom:20px;
+	right:30px;
+	max-width:350px;
+	z-index:99999999999;
+}
+.vi_alert_parent .item{
+	position:relative;
+	padding:10px 20px;
+	color:#fff;
+	z-index:100;
+	float:right;
+	margin-bottom:10px;
+	margin-right:5px;	
+}
+.vi_alert_parent .item.success{ background: #33D594; }
+.vi_alert_parent .item.error{ background: #E5564E; }
+.vi_alert_parent .item.primary{ background: #3AAAFF; }
+.vi_alert_parent .item.warning{ background: #e09525; }
+
+.vi_alert_parent .item{
+  animation: slidein 0.5s;
+}
+@keyframes slidein {
+  from { 
+  	top: 20px;
+  	opacity:0;
+  }
+  to { 
+  	top: 0;
+  	opacity:1;
+  }
+}
+
+.vi_alert_parent .item .head{
+	float:left;
+	width:100%;
+	padding:6px 0;
+}
+.vi_alert_parent .item .head .heading{
+	float: left;
+	font-size:18px;
+}
+.vi_alert_parent .item .head .close_btn{
+	float: right;
+	cursor: pointer;
+	height:16px;
+	width:16px;
+	background-image:url('../images/close.png');
+}
+.vi_alert_parent .item .body{
+	float:left;
+	width:100%;
+	padding:6px 0;
+	font-size:16px;
+}
+
+
+.vi_confirm_box{
+	position: fixed;
+	top: 0;
+	left: 0;
+	background:rgba(0, 0, 0, 0.72);;
+	height: 100%;
+	width: 100%;
+	z-index: 10000;
+	display: none;	
+}
+.vi_confirm_box.active{
+	display: block;	
+}
+.vi_confirm_box .item{
+    width: 350px;
+    background: #fff;
+    padding: 20px;
+    text-align: center;
+    border-radius: 4px;
+    position: absolute;
+    top: calc(50% - 150px);
+    margin-left: calc(50% - 175px);
+    max-height: 350px;
+    overflow: auto;
+}
+.vi_confirm_box .item .close_btn{
+	position: absolute;
+	cursor: pointer;
+	height:16px;
+	width:16px;
+	background-image:url('../images/close.png');
+	top: 10px;
+	right: 10px;
+	background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 12px;
+}
+.vi_confirm_box.active .item{
+	animation: SHW .5s;
+}
+.vi_confirm_box .item .body{
+	width: 100%;
+    float: left;
+    font-size: 30px;
+    color: #000;
+}
+.vi_confirm_box .item .footer{
+	padding-top: 51px;
+}
+.vi_confirm_box .item .footer button{
+    border: 0;
+    background: #00a1ff;
+    color: #fff;
+    padding: 5px 17px;
+    border-radius: 4px;
+    margin: 0 4px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+@keyframes SHW {
+    from {
+        transform:scale(0.4);
+        opacity:0
+    }
+    to {
+        transform: scale(1);
+        opacity:1
+    }
+}

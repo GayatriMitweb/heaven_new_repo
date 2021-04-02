@@ -1,0 +1,3 @@
+Pickup Location Type,Pick-up Location Id,Drop-off Location Type,Drop-off Location Id,Service Duration,From Date,To Date,Luggage Capacity,Total Cost,Markup In,Markup Amount
+city,250,airport,109,1 Hr,1/1/2020,1/12/2020,10kg's baggage and 4 kg's In hand,2500,Percentage,10
+airport,109,hotel,53,3 Hr's,1/1/2020,1/12/2020,10kg's baggage and 4 kg's In hand,6000,Flat,1200

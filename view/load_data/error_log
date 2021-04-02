@@ -1,0 +1,7 @@
+[27-Jun-2017 11:51:01 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'itouroperator'@'localhost' (using password: NO) in /home/itouroperator/public_html/development/view/load_data/bank_list_json_response.php on line 5
+[27-Jun-2017 11:51:01 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/itouroperator/public_html/development/view/load_data/bank_list_json_response.php on line 5
+[27-Jun-2017 11:51:01 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/itouroperator/public_html/development/view/load_data/bank_list_json_response.php on line 6
+[26-May-2018 07:45:12 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/itourscloud/public_html/v5/view/load_data/bank_list_json_response.php on line 5
+[26-May-2018 07:45:12 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/itourscloud/public_html/v5/view/load_data/bank_list_json_response.php on line 5
+[26-May-2018 07:45:12 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/itourscloud/public_html/v5/view/load_data/bank_list_json_response.php on line 6
+[26-May-2018 07:45:12 Etc/GMT] PHP Parse error:  syntax error, unexpected ''' (T_ENCAPSED_AND_WHITESPACE) in /home/itourscloud/public_html/v5/model/model.php on line 341

@@ -1,0 +1,44 @@
+@page {
+  size: A4 portrait;
+}
+div.section_heding{
+   page-break-after: avoid;
+}
+h1.page_breaker{
+  page-break-before: always;
+}
+table, img, div.print_single_accomodation_hotel, section{
+   page-break-inside: avoid;
+}
+
+.row {margin-right: -15px; margin-left: -15px;}
+.col-md-1 {float:left; padding:0 15px; width: 8.33333333%;}
+.col-md-2 {float:left; padding:0 15px; width: 16.66666667%;}
+.col-md-3 {float:left; padding:0 15px; width: 25%;}
+.col-md-4 {float:left; padding:0 15px; width: 33.33333333%;}
+.col-md-5 {float:left; padding:0 15px; width: 41.66666667%;}
+.col-md-6 {float:left; padding:0 15px; width: 50%;}
+.col-md-7 {float:left; padding:0 15px; width: 58.33333333%;}
+.col-md-8 {float:left; padding:0 15px; width: 66.66666667%;}
+.col-md-9 {float:left; padding:0 15px; width: 75%;}
+.col-md-10 {float:left; padding:0 15px; width: 83.33333333%;}
+.col-md-11 {float:left; padding:0 15px; width: 91.66666667%;}
+.col-md-12 {float:left; padding:0 15px; width: 100%;}
+.no-pad{padding: 0 !important;}
+.no-marg{margin: 0 !important;}
+
+.img-responsive{width: 100%;}
+
+.text-left{text-align: left;}
+.text-center{text-align: center;}
+.text-right{text-align: right;}
+
+
+
+
+
+
+
+
+
+

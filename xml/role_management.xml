@@ -1,0 +1,1004 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- XML V7 Menu -->
+<menu>
+	<!-- <menu_desc>
+		<name>Dashboard</name>
+		<link>dashboard/dashboard_main.php</link>
+		<rank>1</rank>
+		<priority>1</priority>
+		<description>Dashboard Details</description>
+		<menu_icon>fa fa-tachometer</menu_icon>
+	</menu_desc>	 -->
+
+	<menu_desc>
+		<name>Administration</name>
+		<link></link>
+		<rank>2</rank>
+		<priority>1</priority>
+		<description>Administrator Details</description>
+		<menu_icon>fa fa-user</menu_icon>
+	</menu_desc>	
+
+	<menu_desc>
+		<name>Branches</name>
+		<link>branches_and_locations/index.php</link>
+		<rank>2</rank>
+		<priority>2</priority>
+		<description>Contains Locations and Branches</description>
+		<menu_icon>fa fa-map-marker</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Company Profile</name>
+		<link>app_settings/index.php</link>
+		<rank>2</rank>
+		<priority>2</priority>
+		<description>These are initial app settings.</description>
+		<menu_icon>fa fa-cogs</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Business Rules</name>
+		<link>business_rules/index.php</link>
+		<rank>2</rank>
+		<priority>2</priority>
+		<description>These are initial app settings.</description>
+		<menu_icon>fa fa-cogs</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Roles</name>
+		<link>other_masters/roles/index.php</link>
+		<rank>2</rank>
+		<priority>2</priority>
+		<description>This is roles</description>
+		<menu_icon>fa fa-user</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Users</name>
+		<link>employee/master/index.php</link>
+		<rank>2</rank>
+		<priority>2</priority>
+		<description>This is employee master</description>
+		<menu_icon>fa fa-user-plus</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Privileges</name>
+		<link>privileges/index.php</link>
+		<rank>2</rank>
+		<priority>2</priority>
+		<description>This is form where we assign privileges to both user and branches.</description>
+		<menu_icon>fa fa-users</menu_icon>
+	</menu_desc>
+
+
+	<menu_desc>
+		<name>Customers</name>
+		<link>customer_master/index.php</link>
+		<rank>2</rank>
+		<priority>2</priority>
+		<description>Customers home.</description>
+		<menu_icon>fa fa-user</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Travel T/C</name>
+		<link>terms_and_conditions/index.php</link>
+		<rank>2</rank>
+		<priority>2</priority>
+		<description>Terms and conditions home</description>
+		<menu_icon>fa fa-list-ul</menu_icon>
+	</menu_desc>
+	
+	<menu_desc>
+		<name>Email Drafts</name>
+		<link>cms/email/index.php</link>
+		<rank>2</rank>
+		<priority>2</priority>
+		<description>SMS/EMAIL Drafts</description>
+		<menu_icon>fa fa-list-ul</menu_icon>
+	</menu_desc>
+	<menu_desc>
+		<name>Tour Checklist</name>
+		<link>checklist/entities/index.php</link>
+		<rank>2</rank>
+		<priority>2</priority>
+		<description>This is group tour and package tour checklist.</description>
+		<menu_icon>fa fa-list-ul</menu_icon>
+	</menu_desc>
+	<menu_desc>
+		<name>Suppliers</name>
+		<link></link>
+		<rank>3</rank>
+		<priority>1</priority>
+		<description>This is vendor master parent menu.</description>
+		<menu_icon>fa fa-handshake-o</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Hotels</name>
+		<link>hotels/master/index.php</link>
+		<rank>3</rank>
+		<priority>2</priority>
+		<description>This is hotels master.</description>
+		<menu_icon>fa fa-bed</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Transporter</name>
+		<link>transport_agency/master/index.php</link>
+		<rank>3</rank>
+		<priority>2</priority>
+		<description>This is Transport module master.</description>
+		<menu_icon>fa fa-car</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>DMC</name>
+		<link>dmc/index.php</link>
+		<rank>3</rank>
+		<priority>2</priority>
+		<description>This is main menu of DMC information.</description>
+		<menu_icon>fa fa-truck</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Vehicle</name>
+		<link>car_rental/vendor/index.php</link>
+		<rank>3</rank>
+		<priority>2</priority>
+		<description>Vehicle agency</description>
+		<menu_icon>fa fa-car</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Visa</name>
+		<link>visa_passport_ticket/visa/vendor/index.php</link>
+		<rank>3</rank>
+		<priority>2</priority>
+		<description>This visa vendor.</description>
+		<menu_icon>fa fa-cc-visa</menu_icon>
+	</menu_desc>
+	
+	<menu_desc>
+		<name>Flight</name>
+		<link>visa_passport_ticket/ticket/vendor/index.php</link>
+		<rank>3</rank>
+		<priority>2</priority>
+		<description>This is Flight ticket vendor</description>
+		<menu_icon>fa fa-plane</menu_icon>
+	</menu_desc>
+	
+	<menu_desc>
+		<name>Activities</name>
+		<link>site_seeing/vendor/index.php</link>
+		<rank>3</rank>
+		<priority>2</priority>
+		<description>This Itinerary vendor</description>
+		<menu_icon>fa fa-thumb-tack</menu_icon>
+	</menu_desc>
+
+
+	<menu_desc>
+		<name>Cruise</name>
+		<link>cruise/index.php</link>
+		<rank>3</rank>
+		<priority>2</priority>
+		<description>This Cruise vendor.</description>
+		<menu_icon>fa fa-ship</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Train</name>
+		<link>visa_passport_ticket/train_ticket/vendor/index.php</link>
+		<rank>3</rank>
+		<priority>2</priority>
+		<description>This is Train ticket vendor</description>
+		<menu_icon>fa fa-subway</menu_icon>
+	</menu_desc>
+	
+	<menu_desc>
+		<name>Passport</name>
+		<link>visa_passport_ticket/passport/vendor/index.php</link>
+		<rank>3</rank>
+		<priority>2</priority>
+		<description>This passport vendor</description>
+		<menu_icon>fa fa-id-card-o</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Insurance</name>
+		<link>insuarance_vendor/index.php</link>
+		<rank>3</rank>
+		<priority>2</priority>
+		<description>This insuarance vendor</description>
+		<menu_icon>fa fa-shield</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Others</name>
+		<link>other_vendor/index.php</link>
+		<rank>3</rank>
+		<priority>2</priority>
+		<description>Other vendors master</description>
+		<menu_icon>fa fa-arrows</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Travel And Tours</name>
+		<link></link>
+		<rank>4</rank>
+		<priority>1</priority>
+		<description>Travel and Tour Details</description>
+		<menu_icon>fa fa-book</menu_icon>
+	</menu_desc>	
+
+	<menu_desc>
+		<name>Masters</name>
+		<link>other_masters/index.php</link>
+		<rank>4</rank>
+		<priority>2</priority>
+		<description>Here we add other masters like city, airport.</description>
+		<menu_icon>fa fa-paw</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Transfer</name>
+		<link>b2b_transfer/index.php</link>
+		<rank>4</rank>
+		<priority>2</priority>
+		<description>Here we add transfers.</description>
+		<menu_icon>fa fa-bus</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Group Tours</name>
+		<link>tours/master/index.php</link>
+		<rank>4</rank>
+		<priority>2</priority>
+		<description>This is tour master</description>
+		<menu_icon>fa fa-users</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Package Tours</name>
+		<link>custom_packages/master/index.php</link>
+		<rank>4</rank>
+		<priority>2</priority>
+		<description>This is Customized Packages</description>
+		<menu_icon>fa fa-user</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Visa</name>
+		<link>visa_master/index.php</link>
+		<rank>4</rank>
+		<priority>2</priority>
+		<description>Visa Master home.</description>
+		<menu_icon>fa fa-cc-visa</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Activities</name>
+		<link>b2b_excursion/index.php</link>
+		<rank>4</rank>
+		<priority>2</priority>
+		<description>This Activity Master</description>
+		<menu_icon>fa fa-thumb-tack</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Supplier Contracts</name>
+		<link>supplier_packages/index.php</link>
+		<rank>4</rank>
+		<priority>2</priority>
+		<description>Supplier Packages</description>
+		<menu_icon>fa fa-handshake-o</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Accounts</name>
+		<link></link>
+		<rank>5</rank>
+		<priority>1</priority>
+		<description>Accounting master parent</description>
+		<menu_icon>fa fa-money</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Ledgers</name>
+		<link>ledgers/index.php</link>
+		<rank>5</rank>
+		<priority>2</priority>
+		<description>Group Master and Ledger Master information</description>
+		<menu_icon>fa fa-cog</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>JV Entry</name>
+		<link>finance_master/journal_entries/index.php</link>
+		<rank>5</rank>
+		<priority>2</priority>
+		<description>Journal Entries information</description>
+		<menu_icon>fa fa-list-ol</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Bank Vouchers</name>
+		<link>bank_vouchers/index.php</link>
+		<rank>5</rank>
+		<priority>2</priority>
+		<description>Bank Master information</description>
+		<menu_icon>fa fa-university</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Clearance</name>
+		<link>finance_master/cheque_clearance/index.php</link>
+		<rank>5</rank>
+		<priority>2</priority>
+		<description>Cheque clearance home</description>
+		<menu_icon>fa fa-cc</menu_icon>
+	</menu_desc>	
+
+	<menu_desc>
+		<name>Expenses</name>
+		<link>other_expense/index.php</link>
+		<rank>5</rank>
+		<priority>2</priority>
+		<description>This is other expense home.</description>
+		<menu_icon>fa fa-building-o</menu_icon>
+	</menu_desc>
+	
+	<menu_desc>
+		<name>Sales Incentive</name>
+		<link>booker_incentive/booker_incentive.php</link>
+		<rank>5</rank>
+		<priority>2</priority>
+		<description>This is booker incentive module</description>
+		<menu_icon>fa fa-star</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Airline Topup</name>
+		<link>flight_supplier/index.php</link>
+		<rank>5</rank>
+		<priority>2</priority>
+		<description>This is airline supplier module</description>
+		<menu_icon>fa fa-handshake-o</menu_icon>
+	</menu_desc>
+	
+	<menu_desc>
+		<name>Visa Topup</name>
+		<link>visa_supplier/index.php</link>
+		<rank>5</rank>
+		<priority>2</priority>
+		<description>This is visa supplier module</description>
+		<menu_icon>fa fa-handshake-o</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>SAC Code</name>
+		<link>finance_master/sac_master/index.php</link>
+		<rank>5</rank>
+		<priority>2</priority>
+		<description>SAC Master information</description>
+		<menu_icon>fa fa-list-ol</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Other Receipts</name>
+		<link>other_receipts/index.php</link>
+		<rank>5</rank>
+		<priority>2</priority>
+		<description>Other receipt resources.</description>
+		<menu_icon>fa fa-arrows</menu_icon>
+	</menu_desc>
+
+	<!-- <menu_desc>
+		<name>Finance</name>
+		<link>finance_master/bank_cash_report/index.php</link>
+		<rank>5</rank>
+		<priority>2</priority>
+		<description>Bank/Cash Book Report</description>
+		<menu_icon>fa fa-money</menu_icon>
+	</menu_desc> -->
+	
+	<menu_desc>
+		<name>B2B</name>
+		<link></link>
+		<rank>6</rank>
+		<priority>1</priority>
+		<description>B2B parent menu</description>
+		<menu_icon>fa fa-refresh</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Settings</name>
+		<link>b2b_settings/index.php</link>
+		<rank>6</rank>
+		<priority>2</priority>
+		<description>These are initial b2b settings.</description>
+		<menu_icon>fa fa-cogs</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Agent</name>
+		<link>b2b_customer/index.php</link>
+		<rank>6</rank>
+		<priority>2</priority>
+		<description>B2B Customers home.</description>
+		<menu_icon>fa fa-user-plus</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Quotation</name>
+		<link>b2b_customer/quotation/index.php</link>
+		<rank>6</rank>
+		<priority>2</priority>
+		<description>B2B Quotations home.</description>
+		<menu_icon>fa fa-file-text-o</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Hotel Availability</name>
+		<link>b2b_customer/availability_request/index.php</link>
+		<rank>6</rank>
+		<priority>2</priority>
+		<description>B2B Hotel Availability home.</description>
+		<menu_icon>fa fa-file-text-o</menu_icon>
+	</menu_desc>
+
+
+	<menu_desc>
+		<name>Sale</name>
+		<link>b2b_sale/index.php</link>
+		<rank>6</rank>
+		<priority>2</priority>
+		<description>B2B bookings</description>
+		<menu_icon>fa fa-user-plus</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name> Cancel / Refund </name>
+		<link>b2b_cancel_refund/index.php</link>
+		<rank>6</rank>
+		<priority>2</priority>
+		<description>Cancel and Refund for B2B sales</description>
+		<menu_icon>fa fa-undo</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>B2C</name>
+		<link>b2c/index.php</link>
+		<rank>7</rank>
+		<priority>1</priority>
+		<description>B2B parent menu</description>
+		<menu_icon>fa fa-refresh</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>CRM</name>
+		<link></link>
+		<rank>8</rank>
+		<priority>1</priority>
+		<description>Backoffice parent menu</description>
+		<menu_icon>fa fa-refresh</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Enquiry</name>
+		<link>attractions_offers_enquiry/enquiry/index.php</link>
+		<rank>8</rank>
+		<priority>2</priority>
+		<description>Here we save enquiry information.</description>
+		<menu_icon>fa fa-phone-square</menu_icon>
+	</menu_desc>
+	
+<menu_desc>
+		<name>Supplier Quotation</name>
+		<link>vendor/quotation_request/index.php</link>
+		<rank>8</rank>
+		<priority>2</priority>
+		<description>This vendor quotation request.</description>
+		<menu_icon>fa fa-calculator</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Package Quotation</name>
+		<link>package_booking/quotation/home/index.php</link>
+		<rank>8</rank>
+		<priority>2</priority>
+		<description>This package booking quotation genrator home.</description>
+		<menu_icon>fa fa-file-text-o</menu_icon>
+	</menu_desc>	
+
+	<menu_desc>
+		<name>Group Quotation</name>
+		<link>package_booking/quotation/group_tour/index.php</link>
+		<rank>8</rank>
+		<priority>2</priority>
+		<description>This package booking quotation genrator home.</description>
+		<menu_icon>fa fa-file-text-o</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Car Rental Quotation</name>
+		<link>package_booking/quotation/car_flight/car_rental/index.php</link>
+		<rank>8</rank>
+		<priority>2</priority>
+		<description>This package booking quotation genrator home.</description>
+		<menu_icon>fa fa-file-text-o</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Flight Quotation</name>
+		<link>package_booking/quotation/car_flight/flight/index.php</link>
+		<rank>8</rank>
+		<priority>2</priority>
+		<description>This package booking quotation genrator home.</description>
+		<menu_icon>fa fa-file-text-o</menu_icon>
+	</menu_desc>
+	
+
+	
+	<menu_desc>
+		<name>ID Proof</name>
+		<link>booking_id_proof/upload_id_proof.php</link>
+		<rank>8</rank>
+		<priority>2</priority>
+		<description>This tourist payment installment update form.</description>
+		<menu_icon>fa fa-id-card-o</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Inventory</name>
+		<link>inventory/index.php</link>
+		<rank>8</rank>
+		<priority>2</priority>
+		<description>This is Inventory management.</description>
+		<menu_icon>fa fa-list-ul</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Sales</name>
+		<link>#</link>
+		<rank>9</rank>
+		<priority>1</priority>
+		<description>This is booking parent menu</description>
+		<menu_icon>fa fa-credit-card</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Group Tour</name>
+		<link>booking/index.php</link>
+		<rank>9</rank>
+		<priority>2</priority>
+		<description>This is main group booking homepage.</description>
+		<menu_icon>fa fa-users</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Package Tour</name>
+		<link>package_booking/booking/index.php</link>
+		<rank>9</rank>
+		<priority>2</priority>
+		<description>This is Package Booking home Screen.</description>
+		<menu_icon>fa fa-user</menu_icon>
+	</menu_desc>
+	
+	<menu_desc>
+		<name>Hotel</name>
+		<link>hotels/booking/index.php</link>
+		<rank>9</rank>
+		<priority>2</priority>
+		<description>Here we make new hotel booking hotel.</description>
+		<menu_icon>fa fa-bed</menu_icon>
+	</menu_desc>
+	
+	<menu_desc>
+		<name>Flight</name>
+		<link>visa_passport_ticket/ticket/index.php</link>
+		<rank>9</rank>
+		<priority>2</priority>
+		<description>Train or Plane Ticket master home</description>
+		<menu_icon>fa fa-plane</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Train</name>
+		<link>visa_passport_ticket/train_ticket/index.php</link>
+		<rank>9</rank>
+		<priority>2</priority>
+		<description>Train or Plane Ticket master home</description>
+		<menu_icon>fa fa-subway</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Visa</name>
+		<link>visa_passport_ticket/visa/index.php</link>
+		<rank>9</rank>
+		<priority>2</priority>
+		<description>Visa master home</description>
+		<menu_icon>fa fa-cc-visa</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Bus</name>
+		<link>bus_booking/booking/index.php</link>
+		<rank>9</rank>
+		<priority>2</priority>
+		<description>Bus bookings</description>
+		<menu_icon>fa fa-bus</menu_icon>
+	</menu_desc>	
+
+	<menu_desc>
+		<name>Car Rental</name>
+		<link>car_rental/booking/index.php</link>
+		<rank>9</rank>
+		<priority>2</priority>
+		<description>Car Rental booking home</description>
+		<menu_icon>fa fa-car</menu_icon>
+	</menu_desc>
+	
+	<menu_desc>
+		<name>Activity</name>
+		<link>excursion/index.php</link>
+		<rank>9</rank>
+		<priority>2</priority>
+		<description>Foreign exchange booking</description>
+		<menu_icon>fa fa-thumb-tack</menu_icon>
+	</menu_desc>
+	
+	<menu_desc>
+		<name>Miscellaneous</name>
+		<link>miscellaneous/index.php</link>
+		<rank>9</rank>
+		<priority>2</priority>
+		<description>Miscellaneous bookings</description>
+		<menu_icon>fa fa-bed</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Forex</name>
+		<link>forex/booking/index.php</link>
+		<rank>9</rank>
+		<priority>2</priority>
+		<description>Foreign exchange booking</description>
+		<menu_icon>fa fa-money</menu_icon>
+	</menu_desc>
+	
+	<menu_desc>
+		<name>Passport</name>
+		<link>visa_passport_ticket/passport/index.php</link>
+		<rank>9</rank>
+		<priority>2</priority>
+		<description>Passport master home</description>
+		<menu_icon>fa fa-id-card-o</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Cancel / Refund</name>
+		<link></link>
+		<rank>10</rank>
+		<priority>1</priority>
+		<description>Here we make new hotel booking hotel.</description>
+		<menu_icon>fa fa-ban</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Complete Group Tour</name>
+		<link>tour_cancelation_and_refund/index.php</link>
+		<rank>10</rank>
+		<priority>2</priority>
+		<description>This is cancel tour form.</description>
+		<menu_icon>fa fa-angle-right</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Group Tour</name>
+		<link>traveler_cancelation_and_refund/index.php</link>
+		<rank>10</rank>
+		<priority>2</priority>
+		<description>This is cancel traveler form.</description>
+		<menu_icon>fa fa-angle-right</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Package Tour</name>
+		<link>package_booking/cancel_and_refund/cancel_booking/cancel_booking.php</link>
+		<rank>10</rank>
+		<priority>2</priority>
+		<description>This is cancel package booking.</description>
+		<menu_icon>fa fa-angle-right</menu_icon>
+	</menu_desc>	
+
+	<menu_desc>
+		<name>Car Rental Refund </name>
+		<link>car_rental/refund/index.php</link>
+		<rank>10</rank>
+		<priority>2</priority>
+		<description>Car Rental refund booking</description>
+		<menu_icon>fa fa-angle-right</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Visa</name>
+		<link>visa_passport_ticket/visa/cancel_and_refund/index.php</link>
+		<rank>10</rank>
+		<priority>2</priority>
+		<description>Visa cancel and refund</description>
+		<menu_icon>fa fa-angle-right</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Passport</name>
+		<link>visa_passport_ticket/passport/cancel_and_refund/index.php</link>
+		<rank>10</rank>
+		<priority>2</priority>
+		<description>Passport cancel and refund</description>
+		<menu_icon>fa fa-angle-right</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Flight</name>
+		<link>visa_passport_ticket/ticket/cancel_and_refund/index.php</link>
+		<rank>10</rank>
+		<priority>2</priority>
+		<description>Ticket cancel and refund</description>
+		<menu_icon>fa fa-angle-right</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Train</name>
+		<link>visa_passport_ticket/train_ticket/cancel_and_refund/index.php</link>
+		<rank>10</rank>
+		<priority>2</priority>
+		<description>Ticket cancel and refund</description>
+		<menu_icon>fa fa-angle-right</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Hotel</name>
+		<link>hotels/cancel_and_refund/index.php</link>
+		<rank>10</rank>
+		<priority>2</priority>
+		<description>Hotel booking cancel and refund</description>
+		<menu_icon>fa fa-angle-right</menu_icon>
+	</menu_desc>	
+
+	<menu_desc>
+		<name>Bus</name>
+		<link>bus_booking/refund/index.php</link>
+		<rank>10</rank>
+		<priority>2</priority>
+		<description>This bus booking refund dashboard.</description>
+		<menu_icon>fa fa-angle-right</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Activity</name>
+		<link>excursion/cancel_and_refund/index.php</link>
+		<rank>10</rank>
+		<priority>2</priority>
+		<description>Activity cancel and refund</description>
+		<menu_icon>fa fa-angle-right</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Miscellaneous</name>
+		<link>miscellaneous/cancel_and_refund/index.php</link>
+		<rank>10</rank>
+		<priority>2</priority>
+		<description>Miscellaneous cancel and refund</description>
+		<menu_icon>fa fa-angle-right</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Purchase</name>
+		<link></link>
+		<rank>11</rank>
+		<priority>1</priority>
+		<description></description>
+		<menu_icon>fa fa-handshake-o</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name> Purchase</name>
+		<link>vendor/dashboard/index.php</link>
+		<rank>11</rank>
+		<priority>2</priority>
+		<description>This vendor payment module dashboard.</description>
+		<menu_icon>fa fa-shopping-cart</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name> Cancel / Refund </name>
+		<link>vendor/refund/index.php</link>
+		<rank>11</rank>
+		<priority>2</priority>
+		<description>This vendor refund module dashboard.</description>
+		<menu_icon>fa fa-undo</menu_icon>
+	</menu_desc>	
+	
+	<menu_desc>
+		<name>HR</name>
+		<link>#</link>
+		<rank>14</rank>
+		<priority>1</priority>
+		<description>This is staff mgmt menu</description>
+		<menu_icon>fa fa-users</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Attendance</name>
+		<link>employee/salary_and_attendance/index.php</link>
+		<rank>14</rank>
+		<priority>2</priority>
+		<description>Here we add and assign tasks to employee.</description>
+		<menu_icon>fa fa-hand-pointer-o</menu_icon>
+	</menu_desc>
+	
+	<menu_desc>
+		<name>Leaves</name>
+		<link>leave_magt/index.php</link>
+		<rank>14</rank>
+		<priority>2</priority>
+		<description>Here we add and assign tasks to employee.</description>
+		<menu_icon>fa fa-thumb-tack</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Tasks</name>
+		<link>tasks/index.php</link>
+		<rank>14</rank>
+		<priority>2</priority>
+		<description>Here we add and assign tasks to employee.</description>
+		<menu_icon>fa fa-thumb-tack</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>User Activities</name>
+		<link>daily_activity/index.php</link>
+		<rank>14</rank>
+		<priority>2</priority>
+		<description>This is daily activities.</description>
+		<menu_icon>fa fa-calendar-check-o</menu_icon>
+	</menu_desc>
+
+	
+	
+	<menu_desc>
+		<name>Performance Rating</name>
+		<link>employee/performance/index.php</link>
+		<rank>14</rank>
+		<priority>2</priority>
+		<description>Here we add and assign tasks to employee.</description>
+		<menu_icon>fa fa-thumb-tack</menu_icon>
+	</menu_desc>
+<menu_desc>
+		<name>Log Register</name>
+		<link>employee/user_login/index.php</link>
+		<rank>14</rank>
+		<priority>2</priority>
+		<description>This is user login.</description>
+		<menu_icon>fa fa-sign-in</menu_icon>
+	</menu_desc>
+	<menu_desc>
+		<name>Reports</name>
+		<link>#</link>
+		<rank>15</rank>
+		<priority>1</priority>
+		<description>This is MIS parent menu</description>
+		<menu_icon>fa fa-line-chart</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Sales</name>
+		<link>reports/reports_homepage.php</link>
+		<rank>15</rank>
+		<priority>2</priority>
+		<description>This is MIS parent menu</description>
+		<menu_icon>fa fa-pie-chart</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Business</name>
+		<link>reports/business_reports/index.php</link>
+		<rank>15</rank>
+		<priority>2</priority>
+		<description>This is MIS parent menu</description>
+		<menu_icon>fa fa-line-chart</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>HR</name>
+		<link>reports/staff_mgmt/index.php</link>
+		<rank>15</rank>
+		<priority>2</priority>
+		<description>This is performance report menu</description>
+		<menu_icon>fa fa-bar-chart</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Accounts</name>
+		<link>finance_master/reports/index.php</link>
+		<rank>15</rank>
+		<priority>2</priority>
+		<description>Finance Reports master</description>
+		<menu_icon>fa fa-usd</menu_icon>
+	</menu_desc>
+
+ 	<menu_desc>
+		<name>Promotion</name>
+		<link>#</link>
+		<rank>16</rank>
+		<priority>1</priority>
+		<description>This is promotions parent menu</description>
+		<menu_icon>fa fa-bullhorn</menu_icon>
+	</menu_desc>
+	<menu_desc>
+		<name>SMS</name>
+		<link>promotional_sms/index.php</link>
+		<rank>16</rank>
+		<priority>2</priority>
+		<description>Here we manage promotional sms.</description>
+		<menu_icon>fa fa-mobile</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Email</name>
+		<link>promotional_email/index.php</link>
+		<rank>16</rank>
+		<priority>2</priority>
+		<description>Here we manage promotional sms.</description>
+		<menu_icon>fa fa-envelope</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>SightSeeing</name>
+		<link>attractions_offers_enquiry/forth_coming_attractions/fouth_coming_attractions_master.php</link>
+		<rank>16</rank>
+		<priority>2</priority>
+		<description>This fourth coming attractions master.</description>
+		<menu_icon>fa fa-lightbulb-o</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Offers</name>
+		<link>attractions_offers_enquiry/upcoming_tours/upcoming_tours_offer_master.php</link>
+		<rank>16</rank>
+		<priority>2</priority>
+		<description>Upcoming tour offers parent menu.</description>
+		<menu_icon>fa fa-gift</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Support</name>
+		<link>#</link>
+		<rank>17</rank>
+		<priority>1</priority>
+		<description>This is promotions parent menu</description>
+		<menu_icon>fa fa-question</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Training</name>
+		<link>dashboard/dashboard_main.php</link>
+		<rank>17</rank>
+		<priority>2</priority>
+		<description>Training</description>
+		<menu_icon>fa fa-laptop</menu_icon>
+	</menu_desc>
+
+	<menu_desc>
+		<name>Data Backup</name>
+		<link target="My New Window">backup_installer/index.php</link>
+		<rank>17</rank>
+		<priority>2</priority>
+		<description>Data Backup</description>
+		<menu_icon>fa fa-download</menu_icon>
+	</menu_desc>
+</menu>

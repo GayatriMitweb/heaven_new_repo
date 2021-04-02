@@ -1,0 +1,27 @@
+.dynform-wrap .dynform-item{
+	position: relative;
+	margin-top:15px;
+    border: 1px solid #eaeaea;
+    padding: 15px;
+    margin-bottom:10px;
+    border-left: 2px solid #36aae7;    
+}
+.dynform-wrap .dynform-btn{
+    height: 24px;
+	position: absolute;
+    top: -12px;
+    background: #ff4343;
+    border: 0;
+    color: #fff;
+    border-radius: 50%;
+    right: -10px;
+    transition: 0.4s;
+}
+.dynform-wrap .dynform-btn:hover{
+    background: #fb2222;
+    transition: 0.4s;
+}
+.dynform-wrap .dyn-error{
+    color:red;
+    font-size: 12px;
+}

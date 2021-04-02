@@ -1,0 +1,67 @@
+@page {
+  size: A4 portrait;
+}
+div.section_heding{
+   page-break-after: avoid;
+}
+h1.page_breaker{
+  page-break-before: always;
+}
+img, div.print_single_accomodation_hotel, section, div.repeat_section{
+   page-break-inside: avoid;
+}
+table.table{
+	padding: 0 !important;
+}
+
+.row {margin-right: -15px; margin-left: -15px;}
+.col-md-1 {float:left; padding:0 15px; width: 8.33333333%;}
+.col-md-2 {float:left; padding:0 15px; width: 16.66666667%;}
+.col-md-3 {float:left; padding:0 15px; width: 25%;}
+.col-md-4 {float:left; padding:0 15px; width: 33.33333333%;}
+.col-md-5 {float:left; padding:0 15px; width: 41.66666667%;}
+.col-md-6 {float:left; padding:0 15px; width: 50%;}
+.col-md-7 {float:left; padding:0 15px; width: 58.33333333%;}
+.col-md-8 {float:left; padding:0 15px; width: 66.66666667%;}
+.col-md-9 {float:left; padding:0 15px; width: 75%;}
+.col-md-10 {float:left; padding:0 15px; width: 83.33333333%;}
+.col-md-11 {float:left; padding:0 15px; width: 91.66666667%;}
+.col-md-12 {float:left; padding:0 15px; width: 100%;}
+.no-pad{padding: 0 !important;}
+.no-marg{margin: 0 !important;}
+
+	
+.mg_tp_5{ margin-top:5px !important; }
+.mg_tp_15{ margin-top:15px !important; }
+
+.img-responsive{width: 100%;}
+
+.text-left{text-align: left;}
+.text-center{text-align: center;}
+.text-right{text-align: right;}
+
+
+@media print {
+    .panel-footer, .panel-heading, table tr.table-heading-row th, table tfoot tr td, table.gst_invoice tr.hightlited_row td{
+    	    background-color: #ebebeb !important;
+        -webkit-print-color-adjust: exact; 
+    }
+    table.gst_invoice{
+	    border-collapse: collapse !important;
+    }
+    table.gst_invoice tr td {
+	    padding: 2px 5px 2px !important;
+	    border: 1px solid #ddd !important;
+	    vertical-align: middle !important;
+	    font-size: 9px !important;
+	}
+}
+
+
+
+
+
+
+
+
+

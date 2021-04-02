@@ -1,0 +1,2 @@
+[26-Mar-2018 15:58:35 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$mail_em_' (T_VARIABLE) in /home/itourscloud/public_html/v4/model/attractions_offers_enquiry/enquiry_master.php on line 67
+[26-Mar-2018 16:07:09 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$mail_em_' (T_VARIABLE) in /home/itourscloud/public_html/v4/model/attractions_offers_enquiry/enquiry_master.php on line 67

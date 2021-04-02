@@ -1,0 +1,28 @@
+.btn-success {
+    transition: .2s ease-out;
+    color: #fff;
+    box-shadow: none;
+    padding-left: 35px;
+    position: relative;
+    background: #58a653 !important;
+    border: 1px solid #58a653;
+    border-radius: 25px !important;
+    line-height: 24px;
+}
+.btn-success i {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    padding: 10px;
+}
+.btn-success i:after {
+    position: absolute;
+    content: '';
+    width: 1px;
+    height: 20px;
+    right: 0;
+    top: 6px;
+    background: #fff;
+    opacity: 0.5;
+}

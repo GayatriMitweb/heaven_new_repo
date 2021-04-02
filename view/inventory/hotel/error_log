@@ -1,0 +1,150 @@
+[06-Apr-2018 05:49:57 Etc/GMT] PHP Warning:  mkdir(): No such file or directory in /home/itourscloud/public_html/v4/view/paid_services/upload_image_proof.php on line 27
+[06-Apr-2018 05:49:57 Etc/GMT] PHP Warning:  mkdir(): No such file or directory in /home/itourscloud/public_html/v4/view/paid_services/upload_image_proof.php on line 27
+[06-Apr-2018 05:49:57 Etc/GMT] PHP Warning:  mkdir(): No such file or directory in /home/itourscloud/public_html/v4/view/paid_services/upload_image_proof.php on line 27
+[06-Apr-2018 05:49:57 Etc/GMT] PHP Warning:  mkdir(): No such file or directory in /home/itourscloud/public_html/v4/view/paid_services/upload_image_proof.php on line 27
+[06-Apr-2018 05:49:57 Etc/GMT] PHP Warning:  mkdir(): No such file or directory in /home/itourscloud/public_html/v4/view/paid_services/upload_image_proof.php on line 27
+[06-Apr-2018 05:49:57 Etc/GMT] PHP Warning:  move_uploaded_file(../../../uploads//emp_photo_proof//2018//Apr//06//1522993797/background-02-1920x870.jpg): failed to open stream: No such file or directory in /home/itourscloud/public_html/v4/view/paid_services/upload_image_proof.php on line 55
+[06-Apr-2018 05:49:57 Etc/GMT] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpF7nf3N' to '../../../uploads//emp_photo_proof//2018//Apr//06//1522993797/background-02-1920x870.jpg' in /home/itourscloud/public_html/v4/view/paid_services/upload_image_proof.php on line 55
+[06-Apr-2018 05:50:55 Etc/GMT] PHP Warning:  mkdir(): No such file or directory in /home/itourscloud/public_html/v4/view/paid_services/upload_image_proof.php on line 27
+[06-Apr-2018 05:50:55 Etc/GMT] PHP Warning:  mkdir(): No such file or directory in /home/itourscloud/public_html/v4/view/paid_services/upload_image_proof.php on line 27
+[06-Apr-2018 05:50:55 Etc/GMT] PHP Warning:  mkdir(): No such file or directory in /home/itourscloud/public_html/v4/view/paid_services/upload_image_proof.php on line 27
+[06-Apr-2018 05:50:55 Etc/GMT] PHP Warning:  mkdir(): No such file or directory in /home/itourscloud/public_html/v4/view/paid_services/upload_image_proof.php on line 27
+[06-Apr-2018 05:50:55 Etc/GMT] PHP Warning:  mkdir(): No such file or directory in /home/itourscloud/public_html/v4/view/paid_services/upload_image_proof.php on line 27
+[06-Apr-2018 05:50:55 Etc/GMT] PHP Warning:  move_uploaded_file(../../../uploads//emp_photo_proof//2018//Apr//06//1522993855/background-02-1920x870.jpg): failed to open stream: No such file or directory in /home/itourscloud/public_html/v4/view/paid_services/upload_image_proof.php on line 55
+[06-Apr-2018 05:50:55 Etc/GMT] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpZXOb73' to '../../../uploads//emp_photo_proof//2018//Apr//06//1522993855/background-02-1920x870.jpg' in /home/itourscloud/public_html/v4/view/paid_services/upload_image_proof.php on line 55
+[06-Apr-2018 05:51:51 Etc/GMT] PHP Warning:  mkdir(): No such file or directory in /home/itourscloud/public_html/v4/view/paid_services/upload_image_proof.php on line 27
+[06-Apr-2018 05:51:51 Etc/GMT] PHP Warning:  mkdir(): No such file or directory in /home/itourscloud/public_html/v4/view/paid_services/upload_image_proof.php on line 27
+[06-Apr-2018 05:51:51 Etc/GMT] PHP Warning:  mkdir(): No such file or directory in /home/itourscloud/public_html/v4/view/paid_services/upload_image_proof.php on line 27
+[06-Apr-2018 05:51:51 Etc/GMT] PHP Warning:  mkdir(): No such file or directory in /home/itourscloud/public_html/v4/view/paid_services/upload_image_proof.php on line 27
+[06-Apr-2018 05:51:51 Etc/GMT] PHP Warning:  mkdir(): No such file or directory in /home/itourscloud/public_html/v4/view/paid_services/upload_image_proof.php on line 27
+[06-Apr-2018 05:51:51 Etc/GMT] PHP Warning:  move_uploaded_file(../../../uploads//emp_photo_proof//2018//Apr//06//1522993911/background-02-1920x870.jpg): failed to open stream: No such file or directory in /home/itourscloud/public_html/v4/view/paid_services/upload_image_proof.php on line 55
+[06-Apr-2018 05:51:51 Etc/GMT] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpKoCDYf' to '../../../uploads//emp_photo_proof//2018//Apr//06//1522993911/background-02-1920x870.jpg' in /home/itourscloud/public_html/v4/view/paid_services/upload_image_proof.php on line 55
+[06-Apr-2018 05:55:00 Etc/GMT] PHP Warning:  mkdir(): No such file or directory in /home/itourscloud/public_html/v4/view/paid_services/upload_image_proof.php on line 27
+[06-Apr-2018 05:55:00 Etc/GMT] PHP Warning:  mkdir(): No such file or directory in /home/itourscloud/public_html/v4/view/paid_services/upload_image_proof.php on line 27
+[06-Apr-2018 05:55:00 Etc/GMT] PHP Warning:  mkdir(): No such file or directory in /home/itourscloud/public_html/v4/view/paid_services/upload_image_proof.php on line 27
+[06-Apr-2018 05:55:00 Etc/GMT] PHP Warning:  mkdir(): No such file or directory in /home/itourscloud/public_html/v4/view/paid_services/upload_image_proof.php on line 27
+[06-Apr-2018 05:55:00 Etc/GMT] PHP Warning:  mkdir(): No such file or directory in /home/itourscloud/public_html/v4/view/paid_services/upload_image_proof.php on line 27
+[06-Apr-2018 05:55:00 Etc/GMT] PHP Warning:  move_uploaded_file(../../../uploads//emp_photo_proof//2018//Apr//06//1522994100/background-02-1920x870.jpg): failed to open stream: No such file or directory in /home/itourscloud/public_html/v4/view/paid_services/upload_image_proof.php on line 55
+[06-Apr-2018 05:55:00 Etc/GMT] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpxkjioy' to '../../../uploads//emp_photo_proof//2018//Apr//06//1522994100/background-02-1920x870.jpg' in /home/itourscloud/public_html/v4/view/paid_services/upload_image_proof.php on line 55
+[06-Apr-2018 05:58:17 Etc/GMT] PHP Warning:  mkdir(): No such file or directory in /home/itourscloud/public_html/v4/view/paid_services/upload_image_proof.php on line 27
+[06-Apr-2018 05:58:17 Etc/GMT] PHP Warning:  mkdir(): No such file or directory in /home/itourscloud/public_html/v4/view/paid_services/upload_image_proof.php on line 27
+[06-Apr-2018 05:58:17 Etc/GMT] PHP Warning:  mkdir(): No such file or directory in /home/itourscloud/public_html/v4/view/paid_services/upload_image_proof.php on line 27
+[06-Apr-2018 05:58:17 Etc/GMT] PHP Warning:  mkdir(): No such file or directory in /home/itourscloud/public_html/v4/view/paid_services/upload_image_proof.php on line 27
+[06-Apr-2018 05:58:17 Etc/GMT] PHP Warning:  mkdir(): No such file or directory in /home/itourscloud/public_html/v4/view/paid_services/upload_image_proof.php on line 27
+[06-Apr-2018 05:58:17 Etc/GMT] PHP Warning:  move_uploaded_file(../../../uploads//emp_photo_proof//2018//Apr//06//1522994297/background-02-1920x870.jpg): failed to open stream: No such file or directory in /home/itourscloud/public_html/v4/view/paid_services/upload_image_proof.php on line 55
+[06-Apr-2018 05:58:17 Etc/GMT] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpERteqc' to '../../../uploads//emp_photo_proof//2018//Apr//06//1522994297/background-02-1920x870.jpg' in /home/itourscloud/public_html/v4/view/paid_services/upload_image_proof.php on line 55
+[06-Apr-2018 06:01:30 Etc/GMT] PHP Warning:  mkdir(): No such file or directory in /home/itourscloud/public_html/v4/view/paid_services/upload_image_proof.php on line 27
+[06-Apr-2018 06:01:30 Etc/GMT] PHP Warning:  mkdir(): No such file or directory in /home/itourscloud/public_html/v4/view/paid_services/upload_image_proof.php on line 27
+[06-Apr-2018 06:01:30 Etc/GMT] PHP Warning:  mkdir(): No such file or directory in /home/itourscloud/public_html/v4/view/paid_services/upload_image_proof.php on line 27
+[06-Apr-2018 06:01:30 Etc/GMT] PHP Warning:  mkdir(): No such file or directory in /home/itourscloud/public_html/v4/view/paid_services/upload_image_proof.php on line 27
+[06-Apr-2018 06:01:30 Etc/GMT] PHP Warning:  mkdir(): No such file or directory in /home/itourscloud/public_html/v4/view/paid_services/upload_image_proof.php on line 27
+[06-Apr-2018 06:01:30 Etc/GMT] PHP Warning:  move_uploaded_file(../../../uploads//emp_photo_proof//2018//Apr//06//1522994490/background-02-1920x870.jpg): failed to open stream: No such file or directory in /home/itourscloud/public_html/v4/view/paid_services/upload_image_proof.php on line 55
+[06-Apr-2018 06:01:30 Etc/GMT] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpkYCiEF' to '../../../uploads//emp_photo_proof//2018//Apr//06//1522994490/background-02-1920x870.jpg' in /home/itourscloud/public_html/v4/view/paid_services/upload_image_proof.php on line 55
+[06-Apr-2018 06:02:42 Etc/GMT] PHP Warning:  mkdir(): No such file or directory in /home/itourscloud/public_html/v4/view/paid_services/upload_image_proof.php on line 27
+[06-Apr-2018 06:02:42 Etc/GMT] PHP Warning:  mkdir(): No such file or directory in /home/itourscloud/public_html/v4/view/paid_services/upload_image_proof.php on line 27
+[06-Apr-2018 06:02:42 Etc/GMT] PHP Warning:  mkdir(): No such file or directory in /home/itourscloud/public_html/v4/view/paid_services/upload_image_proof.php on line 27
+[06-Apr-2018 06:02:42 Etc/GMT] PHP Warning:  mkdir(): No such file or directory in /home/itourscloud/public_html/v4/view/paid_services/upload_image_proof.php on line 27
+[06-Apr-2018 06:02:42 Etc/GMT] PHP Warning:  mkdir(): No such file or directory in /home/itourscloud/public_html/v4/view/paid_services/upload_image_proof.php on line 27
+[06-Apr-2018 06:02:42 Etc/GMT] PHP Warning:  move_uploaded_file(../../../uploads//emp_photo_proof//2018//Apr//06//1522994562/background-02-1920x870.jpg): failed to open stream: No such file or directory in /home/itourscloud/public_html/v4/view/paid_services/upload_image_proof.php on line 55
+[06-Apr-2018 06:02:42 Etc/GMT] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpJqM4pt' to '../../../uploads//emp_photo_proof//2018//Apr//06//1522994562/background-02-1920x870.jpg' in /home/itourscloud/public_html/v4/view/paid_services/upload_image_proof.php on line 55
+[12-Apr-2018 05:19:35 Etc/GMT] PHP Notice:  Undefined index: uploadfile in /home/itourscloud/public_html/v4/view/paid_services/upload_image_proof.php on line 53
+[12-Apr-2018 05:19:35 Etc/GMT] PHP Notice:  Undefined index: uploadfile in /home/itourscloud/public_html/v4/view/paid_services/upload_image_proof.php on line 55
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 2
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 3
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 31
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 254
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 132
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 133
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 134
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 135
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 136
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 137
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 138
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 139
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 140
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 141
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 142
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 143
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 144
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 145
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 146
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 147
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 148
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 167
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 167
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 167
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 167
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 167
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 167
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 167
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 167
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 174
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 175
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 176
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 177
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 178
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 179
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 180
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 181
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 182
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 183
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 184
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 185
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 186
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 187
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 188
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 189
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 190
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 192
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 193
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/admin_header.php on line 12
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/admin_topbar.php on line 25
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Undefined variable: admin_logo_url in /home/itourscloud/public_html/v5/view/layouts/admin_topbar.php on line 25
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/admin_topbar.php on line 28
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 38
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 39
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 40
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 42
+[26-May-2018 07:43:34 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 44
+[26-May-2018 07:43:34 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 44
+[26-May-2018 07:43:34 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 44
+[26-May-2018 07:43:34 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 46
+[26-May-2018 07:43:34 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 46
+[26-May-2018 07:43:34 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 46
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 60
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/display_image_modal1.php on line 35
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/display_image_modal1.php on line 165
+[26-May-2018 07:43:34 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 83
+[26-May-2018 07:43:34 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 83
+[26-May-2018 07:43:34 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 83
+[26-May-2018 07:43:34 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 84
+[26-May-2018 07:43:34 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 84
+[26-May-2018 07:43:34 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 84
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/itourscloud/public_html/v5/view/layouts/notifications/display_notification_modal.php on line 3
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/itourscloud/public_html/v5/view/layouts/notifications/display_notification_modal.php on line 4
+[26-May-2018 07:43:34 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/itourscloud/public_html/v5/view/layouts/notifications/tab1.php on line 6
+[26-May-2018 07:43:34 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/itourscloud/public_html/v5/view/layouts/notifications/tab1.php on line 6
+[26-May-2018 07:43:34 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/itourscloud/public_html/v5/view/layouts/notifications/tab1.php on line 7
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/notifications/tab1.php on line 35
+[26-May-2018 07:43:34 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/itourscloud/public_html/v5/view/layouts/notifications/tab2.php on line 6
+[26-May-2018 07:43:34 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/itourscloud/public_html/v5/view/layouts/notifications/tab2.php on line 6
+[26-May-2018 07:43:34 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/itourscloud/public_html/v5/view/layouts/notifications/tab2.php on line 7
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/notifications/tab2.php on line 37
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/notifications/display_notification_modal.php on line 51
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 38
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 39
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 40
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 42
+[26-May-2018 07:43:34 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 44
+[26-May-2018 07:43:34 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 44
+[26-May-2018 07:43:34 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 44
+[26-May-2018 07:43:34 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 46
+[26-May-2018 07:43:34 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 46
+[26-May-2018 07:43:34 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 46
+[26-May-2018 07:43:34 Etc/GMT] PHP Notice:  Use of undefined constant BASE_URL - assumed 'BASE_URL' in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 60
+[26-May-2018 07:43:34 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 83
+[26-May-2018 07:43:34 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 83
+[26-May-2018 07:43:34 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 83
+[26-May-2018 07:43:34 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 84
+[26-May-2018 07:43:34 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 84
+[26-May-2018 07:43:34 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/itourscloud/public_html/v5/view/layouts/app_functions.php on line 84

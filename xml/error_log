@@ -1,0 +1,12 @@
+[26-Dec-2014 06:45:06 Etc/GMT] PHP Warning:  require_once(../classes/class.phpmailer.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/itweb/public_html/shree-travel/xml/send_mail.php on line 59
+[26-Dec-2014 06:45:06 Etc/GMT] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../classes/class.phpmailer.php' (include_path='.:/usr/local/altphp/lib/php') in /home/itweb/public_html/shree-travel/xml/send_mail.php on line 59
+[26-Dec-2014 07:20:52 Etc/GMT] PHP Fatal error:  Class 'SMTP' not found in /home/itweb/public_html/shree-travel/classes/PHPMailer-master/class.phpmailer.php on line 1197
+[26-Dec-2014 07:25:54 Etc/GMT] PHP Fatal error:  Class 'SMTP' not found in /home/itweb/public_html/shree-travel/classes/PHPMailer-master/class.phpmailer.php on line 1197
+[26-Dec-2014 07:39:30 Etc/GMT] PHP Warning:  include_once(class.smtp.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/itweb/public_html/shree-travel/classes/PHPMailer-FE_v4.1/_lib/class.phpmailer.php on line 515
+[26-Dec-2014 07:39:31 Etc/GMT] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'class.smtp.php' for inclusion (include_path='.:/usr/local/altphp/lib/php') in /home/itweb/public_html/shree-travel/classes/PHPMailer-FE_v4.1/_lib/class.phpmailer.php on line 515
+[26-Dec-2014 07:39:31 Etc/GMT] PHP Fatal error:  Class 'SMTP' not found in /home/itweb/public_html/shree-travel/classes/PHPMailer-FE_v4.1/_lib/class.phpmailer.php on line 583
+[26-Dec-2014 07:41:49 Etc/GMT] PHP Deprecated:  Function eregi_replace() is deprecated in /home/itweb/public_html/shree-travel/xml/send_mail.php on line 64
+[26-Dec-2014 07:41:49 Etc/GMT] PHP Fatal error:  Call to undefined method PHPMailer::SetFrom() in /home/itweb/public_html/shree-travel/xml/send_mail.php on line 68
+[26-Dec-2014 07:42:12 Etc/GMT] PHP Fatal error:  Call to undefined method PHPMailer::SetFrom() in /home/itweb/public_html/shree-travel/xml/send_mail.php on line 68
+[26-Dec-2014 07:42:35 Etc/GMT] PHP Deprecated:  Function split() is deprecated in /home/itweb/public_html/shree-travel/classes/PHPMailer-FE_v4.1/_lib/class.phpmailer.php on line 472
+[26-Dec-2014 07:46:25 Etc/GMT] PHP Fatal error:  Call to undefined method PHPMailer::SetFrom() in /home/itweb/public_html/shree-travel/xml/send_mail.php on line 70

@@ -1,0 +1,66 @@
+<?php
+include "../../../../model/model.php";
+$active_flag = $_POST['active_flag'];
+$city_id = $_POST['city_id'];
+
+$query = "select * from visa_vendor where 1 ";
+if($active_flag!=""){
+	$query .=" and active_flag='$active_flag' ";
+}
+if($city_id!=""){
+	$query .=" and city_id='$city_id' ";
+}
+?>
+
+<div class="row mg_tp_20"> <div class="col-md-12 no-pad"> <div class="table-responsive">
+<table class="table table-bordered" id="tbl_vendor_list" style="margin: 20px 0 !important;">
+	<thead>
+		<tr class="table-heading-row">
+			<th>S_No.</th>
+			<th>Company_Name</th>
+			<th>City</th>
+			<th>Mobile</th>
+			<th>Contact_Person</th>
+			<th>view</th>
+			<th>Edit</th>
+		</tr>
+	</thead>
+	<tbody>
+		<?php 
+		$count = 0;
+		//echo $query;
+		$sq_vendor = mysql_query($query);
+		while($row_vendor = mysql_fetch_assoc($sq_vendor)){
+			$sq_city = mysql_fetch_assoc(mysql_query("select city_name from city_master where city_id='$row_vendor[city_id]'"));
+			$bg = ($row_vendor['active_flag']=="Inactive") ? "danger" : "";
+			$mobile_no = $encrypt_decrypt->fnDecrypt($row_vendor['mobile_no'], $secret_key);
+			?>
+			<tr class="<?= $bg ?>">
+				<td><?= ++$count ?></td>
+				<td><?= $row_vendor['vendor_name'] ?></td>
+				<td><?= $sq_city['city_name'] ?></td>
+				<td><?= $mobile_no ?></td>
+				<td><?= $row_vendor['contact_person_name']?></td>
+				<td>
+					<button class="btn btn-info btn-sm" onclick="view_modal(<?= $row_vendor['vendor_id'] ?>)" title="View Supplier"><i class="fa fa-eye"></i></button>
+				</td>
+				<td>
+					<button class="btn btn-info btn-sm" onclick="update_modal(<?= $row_vendor['vendor_id'] ?>)" title="Edit Detail"><i class="fa fa-pencil-square-o"></i></button>
+				</td>
+			</tr>
+			<?php
+		}
+		?>
+	</tbody>
+</table>
+</div> </div> </div>
+
+<script>
+
+$('#tbl_vendor_list').dataTable({
+		"pagingType": "full_numbers"
+	});
+
+</script>
+
+<script src="<?php echo BASE_URL ?>js/app/footer_scripts.js"></script>

@@ -1,0 +1,1 @@
+[26-Dec-2014 08:54:07 Etc/GMT] PHP Fatal error:  Call to a member function IsSMTP() on a non-object in /home/itweb/public_html/shree-travel/model/model.php on line 188

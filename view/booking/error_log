@@ -1,0 +1,4 @@
+[28-Mar-2018 10:13:10 Etc/GMT] PHP Parse error:  syntax error, unexpected ';' in /home/itourscloud/public_html/v4/view/package_booking/booking/excel_report.php on line 368
+[28-Mar-2018 10:14:00 Etc/GMT] PHP Parse error:  syntax error, unexpected ';' in /home/itourscloud/public_html/v4/view/package_booking/booking/excel_report.php on line 368
+[28-Mar-2018 10:16:20 Etc/GMT] PHP Parse error:  syntax error, unexpected ';' in /home/itourscloud/public_html/v4/view/package_booking/booking/excel_report.php on line 369
+[28-Mar-2018 12:06:28 Europe/London] PHP Fatal error:  Call to undefined function get_user_date() in /home/itourscloud/public_html/v4/view/package_booking/booking/excel_report.php on line 395

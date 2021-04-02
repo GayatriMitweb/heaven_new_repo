@@ -1,0 +1,14 @@
+[27-Mar-2018 06:52:01 Etc/GMT] PHP Warning:  mkdir(): No such file or directory in /home/itourscloud/public_html/v4/view/tours/master/inc/upload_pdf.php on line 27
+[27-Mar-2018 06:52:01 Etc/GMT] PHP Warning:  mkdir(): No such file or directory in /home/itourscloud/public_html/v4/view/tours/master/inc/upload_pdf.php on line 27
+[27-Mar-2018 06:52:01 Etc/GMT] PHP Warning:  mkdir(): No such file or directory in /home/itourscloud/public_html/v4/view/tours/master/inc/upload_pdf.php on line 27
+[27-Mar-2018 06:52:01 Etc/GMT] PHP Warning:  mkdir(): No such file or directory in /home/itourscloud/public_html/v4/view/tours/master/inc/upload_pdf.php on line 27
+[27-Mar-2018 06:52:01 Etc/GMT] PHP Warning:  mkdir(): No such file or directory in /home/itourscloud/public_html/v4/view/tours/master/inc/upload_pdf.php on line 27
+[27-Mar-2018 06:52:01 Etc/GMT] PHP Warning:  move_uploaded_file(../../../uploads//GIT Itinerary//2018//Mar//27//1522133521/job-portal.pdf): failed to open stream: No such file or directory in /home/itourscloud/public_html/v4/view/tours/master/inc/upload_pdf.php on line 55
+[27-Mar-2018 06:52:01 Etc/GMT] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpTViaUH' to '../../../uploads//GIT Itinerary//2018//Mar//27//1522133521/job-portal.pdf' in /home/itourscloud/public_html/v4/view/tours/master/inc/upload_pdf.php on line 55
+[27-Mar-2018 06:54:12 Etc/GMT] PHP Warning:  mkdir(): No such file or directory in /home/itourscloud/public_html/v4/view/tours/master/inc/upload_pdf.php on line 27
+[27-Mar-2018 06:54:12 Etc/GMT] PHP Warning:  mkdir(): No such file or directory in /home/itourscloud/public_html/v4/view/tours/master/inc/upload_pdf.php on line 27
+[27-Mar-2018 06:54:12 Etc/GMT] PHP Warning:  mkdir(): No such file or directory in /home/itourscloud/public_html/v4/view/tours/master/inc/upload_pdf.php on line 27
+[27-Mar-2018 06:54:12 Etc/GMT] PHP Warning:  mkdir(): No such file or directory in /home/itourscloud/public_html/v4/view/tours/master/inc/upload_pdf.php on line 27
+[27-Mar-2018 06:54:12 Etc/GMT] PHP Warning:  mkdir(): No such file or directory in /home/itourscloud/public_html/v4/view/tours/master/inc/upload_pdf.php on line 27
+[27-Mar-2018 06:54:12 Etc/GMT] PHP Warning:  move_uploaded_file(../../../uploads//GIT Itinerary//2018//Mar//27//1522133652/job-portal.pdf): failed to open stream: No such file or directory in /home/itourscloud/public_html/v4/view/tours/master/inc/upload_pdf.php on line 55
+[27-Mar-2018 06:54:12 Etc/GMT] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpjv6UyM' to '../../../uploads//GIT Itinerary//2018//Mar//27//1522133652/job-portal.pdf' in /home/itourscloud/public_html/v4/view/tours/master/inc/upload_pdf.php on line 55
